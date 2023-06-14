@@ -1,4 +1,8 @@
 hello INDIA
 
 
+<<<<<<< HEAD
 hello america
+=======
+hello anakapalli
+>>>>>>> origin/master
